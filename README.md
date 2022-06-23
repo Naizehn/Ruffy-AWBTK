@@ -1,1 +1,1 @@
-##@Deprecated
+@Deprecated // but not useless.
